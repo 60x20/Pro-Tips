@@ -224,3 +224,94 @@ Snap windows: Off
 
 - Everything: Off
 
+## Control Panel
+
+- View by: Large Icons
+
+### Ease of Access Center
+
+- Always read this section: Off
+- Always scan this section: Off
+
+#### Make the computer easier to see
+
+- High Contrast
+  - Shortcut: Off
+  - Everything: Off
+
+#### Make the mouse easier to use
+
+- Mouse Keys: On
+- Set up Mouse Keys:
+  - Shortcut: Off
+    - Everything: Off
+  - CTRL to speed up / Shift to slow down: On
+  - Use Mouse Keys when Num Lock is: Off
+  - Display the icon on Taskbar: Off
+
+#### Make touch and tablets easier to use
+
+- None
+
+### File Explorer Options
+
+#### General
+
+- Browse Folders: Open each folder in its own window
+- Click items as follows: Single-click to open an item
+  - Underline icon titles only when I point at them
+
+#### View
+
+- Display the full path: On
+- Show hidden files
+- Hide empty drives: Off
+- Hide extensions: Off
+- Use checkboxes: On
+- Show all folders: On
+
+### Internet Options => Advanced
+
+<!-- TBD -->
+
+### Keyboard properties
+
+- Repeat Delay: 3/4
+- Repeat Rate: Maximum
+- Cursor blink rate: 8/12
+
+### Mouse properties
+
+#### Buttons
+
+- Switch Primary and Secondary: On
+
+#### Wheel
+
+- Vertical/Horizontal Scrolling: 3
+
+### Power Options
+
+- Power Saver
+  - Change plan settings => Wireless adapter settings => maximum performance
+
+### programs and features
+
+- Remove unused apps
+
+### region
+
+- Additional settings => Time:
+  - Short Time: H:mm
+  - Long Time: H:mm:ss
+
+### Security and Maintenance
+
+- Change User Account Control settings: 3 (Do not dim my desktop)
+
+### Sound
+
+- Playback => Default Device => properties => enhancements:
+  - Low frequency protection: On
+  - Loudness equalization: On
+
