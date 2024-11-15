@@ -377,6 +377,10 @@ Snap windows: Off
   - Chrome: Unhook, AdGuard
   - Firefox:
 
+## AMD
+
+- Hotkeys: Off
+
 ## Monitor
 
 - Mode: ECO
