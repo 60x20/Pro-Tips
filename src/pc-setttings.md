@@ -295,11 +295,11 @@ Snap windows: Off
 - Power Saver
   - Change plan settings => Wireless adapter settings => maximum performance
 
-### programs and features
+### Programs and Features
 
 - Remove unused apps
 
-### region
+### Region
 
 - Additional settings => Time:
   - Short Time: H:mm
