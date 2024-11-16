@@ -112,10 +112,10 @@ Snap windows: Off
 
 - Country: United States
 - Regional Format: English (US)
-- Change data formats:
+- Change date formats:
   - First day of week: Monday
   - Date Format: day/month/year
-  - ![data format](/assets/settings/customize-format.png)
+  - ![date format](/assets/settings/customize-format.png)
 
 #### Language
 
