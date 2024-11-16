@@ -7,7 +7,7 @@
 - Check Pictures
 - Check Desktop
 - Check Local Disk
-- Try right-clicking on Apps on Taskbar (for example, Notepad). This will show the history
+- Try secondary-clicking on Apps on Taskbar (for example, Notepad). This will show the history
 
 ## Browsers
 
