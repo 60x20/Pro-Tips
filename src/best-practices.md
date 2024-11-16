@@ -9,4 +9,4 @@
 7. Readability is usually more important than performance.
 8. If something is specifically used over something, this should be noted.
 9. It's a better idea to note why some code exists in the first place than explaining how it works.
-10. Use fallbacks, ensuring that the program is failsafe.
+10. Use fallbacks, so that the program is failsafe.
