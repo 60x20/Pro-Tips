@@ -1,5 +1,96 @@
 # Settings for PC (Windows 10)
 
+## Apps
+
+- Chrome, Opera, Firefox
+- PowerToys
+- VSCode
+- GitHub Desktop
+- WinRAR
+
+## Taskbar
+
+- Taskbar Menu (Secondary Click on taskbar to open the menu)
+  - Toolbars: None
+  - Search: Only show search icon
+  - News and interests: Off
+  - Show Task View: On
+- Order
+  1. File Explorer
+  2. Notepad
+  3. Opera
+  4. VSCode
+  5. Chrome
+  6. Firefox
+  7. Calculator
+  8. Clock
+  9. PowerShell
+  10. Github Desktop
+
+## PowerToys
+
+- Always on top
+  - Shortcut: Win + P
+  - Thickness: 3px
+  - Sound: Off
+- Color Picker
+  - Shortcut: Win + C
+  - Color Format: RGB
+  - Show color name: On
+- Fancy Zones
+  - Shortcut: Win + Shift + `
+  - Grid
+    1. (2y) x x 1.5x
+    2. (1y) x x 1.5x
+  - Space around zones: -1px
+  - Highlight distance: 200px
+- Keyboard Manager
+  - Firefox
+    - Ctrl + Shift + J => Ctrl + Shift + C
+    - Ctrl + Shift + N => Ctrl + Shift + P
+- Screen ruler
+  - Shortcut: Win + R
+  - Per color channel edge detection: On
+  - Tolerance: 10
+
+## VSCode
+
+- Settings
+  - [settings for VSCode](/assets/vscode/vscode-settings.json)
+- Extensions
+  - Prettier
+  - ESLint
+  - Spell Checker
+
+## Browsers
+
+- Caret Browsing: On
+
+  - If supported, turn on with F7
+  - If not supported, execute: "document.designMode = 'on'"
+
+- Extensions
+  - Opera: Unhook
+  - Chrome: Unhook, AdGuard
+  - Firefox:
+
+## AMD
+
+- Hotkeys: Off
+
+## Monitor
+
+- Mode: ECO
+- Audio => Volume: 100%
+- OSD => OSD Timeout: 20
+- System => Auto source: Off
+- System => HDMI Black Level: Low
+
+## Desktop
+
+- Power Options
+  - To create shortcut: Control Panel => Drag Power Options to desktop
+
 ## On installation
 
 - On installation, Windows prompts the user with configuration questions, these should be answered using a "do not share/store any personal data" policy
@@ -314,94 +405,3 @@ Snap windows: Off
 - Playback => Default Device => properties => enhancements:
   - Low frequency protection: On
   - Loudness equalization: On
-
-## Desktop
-
-- Power Options
-  - To create shortcut: Control Panel => Drag Power Options to desktop
-
-## Taskbar
-
-- Taskbar Menu (Secondary Click on taskbar to open the menu)
-  - Toolbars: None
-  - Search: Only show search icon
-  - News and interests: Off
-  - Show Task View: On
-- Order
-  1. File Explorer
-  2. Notepad
-  3. Opera
-  4. VSCode
-  5. Chrome
-  6. Firefox
-  7. Calculator
-  8. Clock
-  9. PowerShell
-  10. Github Desktop
-
-## PowerToys
-
-- Always on top
-  - Shortcut: Win + P
-  - Thickness: 3px
-  - Sound: Off
-- Color Picker
-  - Shortcut: Win + C
-  - Color Format: RGB
-  - Show color name: On
-- Fancy Zones
-  - Shortcut: Win + Shift + `
-  - Grid
-    1. (2y) x x 1.5x
-    2. (1y) x x 1.5x
-  - Space around zones: -1px
-  - Highlight distance: 200px
-- Keyboard Manager
-  - Firefox
-    - Ctrl + Shift + J => Ctrl + Shift + C
-    - Ctrl + Shift + N => Ctrl + Shift + P
-- Screen ruler
-  - Shortcut: Win + R
-  - Per color channel edge detection: On
-  - Tolerance: 10
-
-## VSCode
-
-- Settings
-  - [settings for VSCode](/assets/vscode/vscode-settings.json)
-- Extensions
-  - Prettier
-  - ESLint
-  - Spell Checker
-
-## Browsers
-
-- Caret Browsing: On
-
-  - If supported, turn on with F7
-  - If not supported, execute: "document.designMode = 'on'"
-
-- Extensions
-  - Opera: Unhook
-  - Chrome: Unhook, AdGuard
-  - Firefox:
-
-## AMD
-
-- Hotkeys: Off
-
-## Monitor
-
-- Mode: ECO
-- Audio => Volume: 100%
-- OSD => OSD Timeout: 20
-- System => Auto source: Off
-- System => HDMI Black Level: Low
-
-## Apps
-
-- Chrome, Opera, Firefox
-- PowerToys
-- VSCode
-- GitHub Desktop
-- WinRAR
