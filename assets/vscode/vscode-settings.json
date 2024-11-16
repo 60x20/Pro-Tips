@@ -1,0 +1,14 @@
+{
+  "breadcrumbs.enabled": false,
+  "editor.minimap.enabled": false,
+  "editor.tabSize": 2,
+  "editor.fontSize": 16,
+  "files.autoSave": "onFocusChange",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.printWidth": 120,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact"
+  }
+}

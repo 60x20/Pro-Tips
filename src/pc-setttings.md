@@ -365,6 +365,15 @@ Snap windows: Off
   - Per color channel edge detection: On
   - Tolerance: 10
 
+## VSCode
+
+- Settings
+  - [settings for VSCode](/assets/vscode/vscode-settings.json)
+- Extensions
+  - Prettier
+  - ESLint
+  - Spell Checker
+
 ## Browsers
 
 - Caret Browsing: On
