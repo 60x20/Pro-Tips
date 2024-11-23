@@ -10,5 +10,6 @@
   "emmet.includeLanguages": {
     "javascript": "javascriptreact",
     "typescript": "typescriptreact"
-  }
+  },
+  "extensions.autoUpdate": false
 }
