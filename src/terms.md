@@ -33,3 +33,7 @@
 - Selection Bias
 - False Dilemma
 - Quoting out of Context
+
+## Economics
+
+- Opportunity Cost
