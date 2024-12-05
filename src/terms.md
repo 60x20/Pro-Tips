@@ -37,3 +37,7 @@
 ## Economics
 
 - Opportunity Cost
+
+## Psychology
+
+- Catastrophizing
