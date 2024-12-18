@@ -30,6 +30,8 @@
 ## Logical Fallacies
 
 - Confirmation Bias
+- Sunk Cost Fallacy
+- Moving the Goalposts
 - Selection Bias
 - False Dilemma
 - Quoting out of Context
