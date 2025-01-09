@@ -19,9 +19,8 @@
 
 ## Information
 
-- Word Cloud
-- Fishing Expedition
 - Data Rot
+- Link Rot
 
 ## Hardware
 
