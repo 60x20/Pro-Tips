@@ -4,23 +4,20 @@
 
 - Throttling / Debouncing
 - Hardcoding
-- Memoization
-- Loop Unrolling
-- Heisenbug
+- Caching
+- Idempotence
 
-## Computer Science
-
-- Event loop
-- Garbage Collection
-
-## Information & Internet Security
+## Rules of Thumb
 
 - Principle of Least Privilege
+- Chesterton's Fence
+- Law of Triviality
 
 ## Information
 
 - Data Rot
 - Link Rot
+- Citogenesis
 
 ## Hardware
 
@@ -34,6 +31,7 @@
 - Selection Bias
 - False Dilemma
 - Quoting out of Context
+- Red herring
 
 ## Economics
 
