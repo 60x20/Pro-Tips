@@ -18,4 +18,18 @@
 
   // prettier
   "prettier.resolveGlobalModules": true,
+
+  // spell checking
+  "cSpell.userWords": [
+    "anywhen",
+    "errorful",
+    "fernet",
+    "interactable",
+    "nodenext",
+    "tseslint",
+    "unwatch",
+    "vite",
+    "Xmark"
+  ],
+
 }
