@@ -1,14 +1,21 @@
 {
+  // vs code
   "breadcrumbs.enabled": false,
   "editor.minimap.enabled": false,
   "editor.tabSize": 2,
   "editor.fontSize": 16,
   "files.autoSave": "onFocusChange",
+
+  // formatting
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  // emmet
   "emmet.includeLanguages": {
     "javascript": "javascriptreact",
     "typescript": "typescriptreact"
   },
-  "prettier.resolveGlobalModules": true
+
+  // prettier
+  "prettier.resolveGlobalModules": true,
 }
