@@ -21,10 +21,6 @@
 - Link Rot
 - Citogenesis
 
-## Hardware
-
-- Heat Soak
-
 ## Logical Fallacies
 
 - Confirmation Bias
