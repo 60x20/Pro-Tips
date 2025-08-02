@@ -6,12 +6,14 @@
 - Hardcoding
 - Caching
 - Idempotence
+- Self-Documentation
 
 ## Rules of Thumb
 
 - Principle of Least Privilege
 - Chesterton's Fence
 - Law of Triviality
+- Division of Labor
 
 ## Information
 
