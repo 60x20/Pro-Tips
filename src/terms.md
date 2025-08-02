@@ -7,6 +7,7 @@
 - Caching
 - Idempotence
 - Self-Documentation
+- Defensive/Offensive Programming
 
 ## Rules of Thumb
 
